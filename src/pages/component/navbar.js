@@ -13,6 +13,7 @@ export default function Menu() {
             <Nav.Link href="/noticias">Noticias</Nav.Link>
             <Nav.Link href="/promessa">Promessa</Nav.Link>
             <Nav.Link href="/pages">Pages</Nav.Link>
+            <Nav.Link href="/mesportes">P.Esportes</Nav.Link>
 
           </Nav>
         </Navbar.Collapse>
